@@ -1,4 +1,5 @@
 # DNA Fingerprinting Simulation
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Overview
 A full-stack web application that simulates DNA fingerprinting through restriction enzyme digestion and gel electrophoresis visualization. The system consists of:
